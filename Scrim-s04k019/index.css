@@ -1,0 +1,42 @@
+body {
+    margin: 0;
+    background-color: #1B244A;
+}
+
+.container {
+    display: flex;
+    justify-content: space-around;
+}
+
+.home-container {
+    text-align: center;
+    color: white;
+}
+
+.guest-container {
+    text-align: center;
+    color: white;
+}
+
+#home-score {
+    color: #F94F6D;
+    background-color: black;
+    width: 155px;
+    height: 120px;
+}
+
+#guest-score {
+    color: #F94F6D;
+    background-color: black;
+    width: 155px;
+    height: 120px;
+}
+
+.button {
+    background-color: #1B244A;
+    border-color: #9AABD8;
+    width: 45px;
+    height: 45px;
+    color: #9AABD8;
+    border-radius: 5px;
+}
